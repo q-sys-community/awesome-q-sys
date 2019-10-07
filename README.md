@@ -2,8 +2,6 @@
 
 A (semi) curated list of resources for the QSC Q-Sys Platform and it's LUA plugins
 
-https://join.slack.com/t/q-sys-community/shared_invite/enQtNzc4NTYzNzk1MjQ5LWI3NDFjOGRkN2U3OGI3ZjYxMmViN2JiOGI2ODY3NGZjMjU5MGNkN2M4NDdiOTY3NmE5OTY5Y2RiMDJhYTAwYTk
-
 - [Resouces](#resouces)
   - [Official](#official)
   - [Discussion](#discussion)

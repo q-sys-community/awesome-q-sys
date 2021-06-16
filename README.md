@@ -11,11 +11,12 @@ A (semi) curated list of resources for the QSC Q-Sys Platform and it's LUA plugi
 
 ### Official
 
+- [QSC Q-Sys Community](https://developers.qsc.com/)
 - [Q-Sys Designer Software](https://www.qsc.com/resources/software-and-firmware/q-sys-designer-software/)
 
 ### Discussion & Community
 
-- [Developer Portal](https://qscprod.force.com/qsysdeveloper) - Invite Only
+- [Original Developer Portal](https://qscprod.force.com/qsysdeveloper) - Invite Only (Mothballed)
 - [Slack - q-sys-community](https://https://q-sys-community.slack.com) - [Join](https://join.slack.com/t/q-sys-community/shared_invite/enQtNzc0MDM1ODQ2NDM1LTgwYWQ1ZmRjZjU5Y2FlOGQwYmRhNzBhOWI4ODM4YzViOWE4Njk2ZjliNjA2NDE2NWNkYWI0YzQyODIzMTM4OTA) - Slack workspace for Q-Sys ecosystem
 - [Facebook - QSC Q-SYS Programming Super Group](https://www.facebook.com/groups/Qsysprogramming) - Currently active Facebook Group
 - [Facebook - QSC QSYS Programming Sharing Group](https://www.facebook.com/groups/842434502600703/) - Archived Facebook Group
